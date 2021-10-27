@@ -1,6 +1,5 @@
 # theme_toggle_react_app
-Simple react app including dark/light theme toggling functionality.
-To run the react application :
-clone this repository,
-<code>cd theme_toggle_react_app</code>
-<code>npm start</code>
+<br>To run the react application :
+<br>clone this repository,
+<br><code>cd theme_toggle_react_app</code>
+<br><code>npm start</code>
