@@ -61,6 +61,13 @@ h1{
     border: #c6cbd1 5px solid ;
 }
 
+.card-title{
+  transition-delay: 500ms;
+  transition: content 1000ms ease;
+ 
+}
+
+
 .switch {
   position: relative;
   display: inline-block;
@@ -93,19 +100,19 @@ h1{
   width: 26px;
   left: 4px;
   bottom: 4px;
-  background-color: white;
+  background-color: rgb(190, 190, 190);
   -webkit-transition: .4s;
   transition: .4s;
 }
 
 
 input[type=checkbox]:checked + .slider {
-  background-color: #ccc;
+  background-color: #e2e8ee;
   
 }
 
 input[type=checkbox]:focus + .slider {
-  box-shadow: 0 0 1px #ccc;
+  box-shadow: 0 0 1px #e2e8ee;
   
 }
 
